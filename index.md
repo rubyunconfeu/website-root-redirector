@@ -1,3 +1,3 @@
 ---
-redirect_to: http://de.jimdo.com
+redirect_to: http://2019.rubyunconf.eu
 ---
