@@ -1,3 +1,3 @@
 ---
-redirect_to: https://2019.rubyunconf.eu
+redirect_to: https://2020.rubyunconf.eu
 ---
